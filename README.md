@@ -17,9 +17,9 @@ Deletion process safely deletes the file by ensuring at least one copy of file r
 This system **automates duplicate file detection and management**, helping users free up disk space while ensuring important files are safely backed up.
 
 ### How to Run?
-1.Clone/download this repo.
-2.Use IntelliJ IDEA, Eclipse, or VS Code.
-3.Open File_Deduplication_system project into the IDE(Ensure java is installed).
-4.Run  [Main.java]() and Provide the absolute path of the folder to scan.
+1.Clone/download this repo.  
+2.Use IntelliJ IDEA, Eclipse, or VS Code.  
+3.Open File_Deduplication_system project into the IDE(Ensure java is installed).  
+4.Run  [Main.java]() and Provide the absolute path of the folder to scan.  
 5.Try deleting or backup the files.
 
