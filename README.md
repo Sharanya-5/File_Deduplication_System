@@ -19,7 +19,7 @@ This system **automates duplicate file detection and management**, helping users
 ### How to Run?
 1.Clone/download this repo.  
 2.Use IntelliJ IDEA, Eclipse, or VS Code.  
-3.Open File_Deduplication_system project into the IDE(Ensure java is installed).  
-4.Run  [Main.java]() and Provide the absolute path of the folder to scan.  
+3.Open [File_Deduplication_system project](https://github.com/Sharanya-5/File_Deduplication_System/tree/main/FileDeduplicationSystem) into the IDE(Ensure java is installed).  
+4.Run  [Main.java](https://github.com/Sharanya-5/File_Deduplication_System/blob/main/FileDeduplicationSystem/src/Main.java) and Provide the absolute path of the folder to scan.  
 5.Try deleting or backup the files.
 
