@@ -1,4 +1,4 @@
-# File_Depuplication_System
+# File_Deduplication_System
 
 ## A Java-based Solution to detect,delete or backup duplicate files in a direcory
 
@@ -14,5 +14,5 @@ A HashMap Data structure is implemented to track the files by storing the hash v
 **Handle Duplicate method** is used to delete or backup the files depending on the user choice.
 Deletion process safely deletes the file by ensuring at least one copy of file remain.Backup process ensures to safely move the duplicate files to the directory where the user is asked to provide the path.
 
-This system automates duplicate file detection and management, helping users free up disk space while ensuring important files are safely backed up.
+This system **automates duplicate file detection and management**, helping users free up disk space while ensuring important files are safely backed up.
 
